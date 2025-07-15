@@ -24,5 +24,10 @@ public class Desafios {
         } else
             return resultado = true;
     }
+
+    //Agora você precisa escrever uma função que receba um argumento e retorne o quadrado dele.
+    public static int square(int n){
+        return n*n;
+    }
 }
 
